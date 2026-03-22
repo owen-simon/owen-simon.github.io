@@ -2,9 +2,9 @@
 
 ---
 
-### IS 6850 Home Credit Default Risk Project
+### [IS 6850 Home Credit Default Risk Project](https://github.com/owen-simon/IS-6850-home-credit-project)
 
-Graduate capstone project completed in the MSBA program at the University of Utah using data from the Kaggle Home Credit Default Risk competition.
+Graduate capstone project completed in the MSBA program at the University of Utah using data from the [Kaggle Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-default-risk/data).
 
 #### Project Summary
 
