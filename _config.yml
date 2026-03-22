@@ -1,15 +1,11 @@
-title: Owen Simon
-logo: "/images/logo.png?raw=true"
-description: >
-I am pursing MS degree in Business Analytics at Eccles School of Business, University of Utah. 
-
-<br>
-  
-I am currently a Data Analyst at Pennington Biomedical Research Center, where I support research focused on the Veggie Meter, a noninvasive device used to measure skin carotenoid levels.
-
-<br>
-
-<a href="https://www.linkedin.com/in/owen-simon-285587165/">View My LinkedIn Profile</a> 
+title: Owen Simon # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
