@@ -1,12 +1,12 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### [Home Credit Project](https://github.com/owen-simon/IS-6850-home-credit-project)
+## [Home Credit Project](https://github.com/owen-simon/IS-6850-home-credit-project)
 
 This repository contains my University of Utah MSBA Capstone Project for IS 6850. The project focuses on integrating and engineering features from the multiple datasets provided in the **[Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/data)** competition, resulting in consolidated training and testing datasets ready for predictive modeling.
 
-## Project Overview
+### Project Overview
 
 The goal of this project is to clean, transform, and engineer application data to improve model performance and reliability. Key tasks include:
 
@@ -33,7 +33,7 @@ The goal of this project is to clean, transform, and engineer application data t
   - Modular R functions allow repeated application to both train and test datasets  
   - Functions include cleaning, aggregating, imputing, and engineering features  
 
-## Modeling Summary
+### Modeling Summary
 
 The modeling notebook demonstrates the predictive modeling workflow applied to the processed dataset:
 
@@ -52,7 +52,7 @@ The modeling notebook demonstrates the predictive modeling workflow applied to t
   - Code is structured to allow re-fitting and evaluation on new datasets
   - CV and test metrics are clearly labeled for easy comparison
 
-## Model Card Notebook
+### Model Card Notebook
 
 The **Credit Default Prediction Model Card** notebook provides a comprehensive, business-focused summary of the final LASSO model developed for predicting loan defaults. It is designed for stakeholders, analysts, and regulatory reviewers, highlighting model behavior, interpretability, and fairness.
 
@@ -74,7 +74,7 @@ Key content includes:
 
 This notebook complements the modeling workflow by translating technical outputs into actionable insights for decision-making, lending transparency, and regulatory compliance.
 
-## Repository Structure
+### Repository Structure
 
 The repository contains the following files and folders:
 
