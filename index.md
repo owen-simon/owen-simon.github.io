@@ -2,7 +2,7 @@
 
 ---
 
-### [IS 6850 Home Credit Default Risk Project](https://github.com/owen-simon/IS-6850-home-credit-project)
+### [IS 6850 Home Credit Default Risk Project 🏡](https://github.com/owen-simon/IS-6850-home-credit-project) 
 
 Graduate capstone project completed in the MSBA program at the University of Utah using data from the [Kaggle Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-default-risk/data).
 
@@ -41,3 +41,7 @@ Developed a stakeholder focused model card documenting:
 - Rendered HTML outputs for easy review
 
 This project demonstrates strong capabilities in data engineering, feature construction, predictive modeling, model evaluation, and responsible AI documentation within a financial risk context.
+
+---
+
+### [Formula 1 Constructor Repository 🏎️](https://github.com/owen-simon/Formula-1-Constructor-Repository.git) 
