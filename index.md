@@ -44,6 +44,6 @@ This project demonstrates strong capabilities in data engineering, feature const
 
 ---
 
-### [Formula 1 Constructor Repository 🏎️](https://github.com/owen-simon/Formula-1-Constructor-Repository.git)
+### [Formula One Constructor Championship Predictions 🏎️](https://github.com/owen-simon/Formula-1-Constructor-Repository.git)
 
 🚧 Work in Progress 🚧
