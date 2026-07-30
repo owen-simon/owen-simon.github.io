@@ -28,8 +28,28 @@ Built an end to end credit default prediction pipeline by cleaning, integrating,
 
 ### [Formula One Constructor Championship Predictions 🏎️](https://github.com/owen-simon/Formula-1-Constructor-Repository.git)
 
-**🚧 Work in Progress 🚧**
-Predictive modeling project focused on forecasting Formula One constructor championship outcomes using historical performance, driver lineup features, and engineered team metrics.
+Predictive modeling project forecasting Formula One Constructors' Championship winners using historical race results, team characteristics, driver performance, and engineered competitive metrics.
+
+**Overview**
+Developed a machine learning pipeline to estimate each constructor's preseason probability of winning the Formula One Constructors' Championship using historical data from the 2000 through 2025 seasons.
+
+**Highlights**
+- Engineered team, driver, engine, and historical performance features from multiple Formula One seasons
+- Designed a leakage resistant preprocessing pipeline using only information available before each season
+- Implemented expanding window cross validation to preserve the chronological nature of the data
+- Produced preseason championship probability estimates for every constructor
+
+**Modeling**
+- Compared Logistic Regression, Decision Trees, Bagging, Random Forest, Gradient Boosting, AdaBoost, Ridge, LASSO, Elastic Net, Naive Bayes, KNN, Neural Networks, and Support Vector Machines
+- Evaluated models using ROC AUC, Accuracy, Precision, Recall, F1 Score, and Specificity
+- Selected a Radial Support Vector Machine as the final model based on cross-validated performance
+
+**Extras**
+- Comprehensive feature engineering and modeling documentation
+- Prediction visualizations comparing preseason forecasts with the 2026 championship standings
+- Fully reproducible R workflow and project documentation
+
+---
 
 ## Conference Abstracts
 
