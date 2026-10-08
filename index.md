@@ -4,7 +4,7 @@
 
 ### [IS 6850 Home Credit Default Risk Project 🏡](https://github.com/owen-simon/IS-6850-home-credit-project) 
 
-Graduate capstone project (MSBA, University of Utah) using data from the Kaggle [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) competition.
+Graduate capstone practice project (MSBA, University of Utah) using data from the Kaggle [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) competition.
 
 **Overview**
 Built an end to end credit default prediction pipeline by cleaning, integrating, and engineering features across multiple relational datasets.
