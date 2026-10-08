@@ -53,4 +53,6 @@ Developed a machine learning pipeline to estimate each constructor's preseason p
 
 ## Conference Abstracts
 
-Carmichael, C., Bertholf, C., Simon, O., Guidroz, R., Karam, A., Newton, D., & Champagne, C. (2025). A Five-week Diet and Education Intervention Increased Skin Carotenoid Levels in Children: Results from a Pilot Veggie Meter® Study. Journal of the Academy of Nutrition and Dietetics, 125(10), A104. doi:10.1016/j.jand.2025.06.376
+Carmichael, C., Bertholf, C., Simon, O., Guidroz, R., Karam, A., Newton, D., & Champagne, C. (2025). A five-week diet and education intervention increased skin carotenoid levels in children: Results from a pilot Veggie Meter® study. Journal of the Academy of Nutrition and Dietetics, 125(10), A104. https://doi.org/10.1016/j.jand.2025.06.376
+
+Carmichael, C., Camel, S., Bertholf, C., Simon, O., & Champagne, C. (2026). Inter-device reliability of the Veggie Meter®: Paving the way for future collaborations. Journal of the Academy of Nutrition and Dietetics, 126(10). https://doi.org/10.1016/j.jand.2026.156694
